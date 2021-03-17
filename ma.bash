@@ -8,4 +8,5 @@ shopt -s nullglob globstar
 cd "$JDR"
 # _AT_ username/repository commit
 _AT_ rkkr/simple-keyboard 439a5e64bede9c65dae6ebafc9b8a67b6d353cb3
+_AT_ sashomasho/bulkey d6b22ecf9989320506985da7382dbb0c29c15404
 # ma.bash OEF
