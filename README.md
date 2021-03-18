@@ -1,6 +1,6 @@
 # buildAPKs.keyboards
 # [buildAPKs.keyboards](https://buildapks.github.io/buildAPKs.keyboards/)
-Android APK app sources that build in [Termux](https://github.com/termux) in Amazon, Android, Chrome and Windows. 
+Android APK keyboard sources that build in [Termux](https://github.com/termux) in Amazon, Android, Chrome and Windows. 
 
 [This repository](https://github.com/BuildAPKs/buildAPKs.keyboards) is a submodule for [buildAPKs](https://github.com/BuildAPKs/buildAPKs).  In order to install it in its' proper place to attempt to make these applications on smartphone, smartTV, tablet and wearable, copy and paste the following into [Termux](https://github.com/termux):
 
