@@ -7,6 +7,7 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ AnySoftKeyboard/AnySoftKeyboard ac97494407d685d2726c43f498719f2726743030
 _AT_ lnanek/OneXMenuTest e00c0c48101210f2ec102b0385b8eeb754507752
 _AT_ Riateche/fast12-keyboard 14f2f6a4a3c5c1759433b6d64e2d5d2a776d2d61
 _AT_ Riateche/twotaps-keyboard 26ecb63881b3a5b0675208a60f850b54581a2406
@@ -31,6 +32,7 @@ _AT_ robotarmy/ram.9.key daeefc53a4f9bbd7a29a10799fd36b288a3b44e7
 _AT_ rretzbach/LearningKeyboard 0f3a2ab9d19e438737ff421a1d139367554a5056
 _AT_ sanyaade-research-hub/Irish-Dialer 742447382f2edcb88e0b530d508173149298b836
 _AT_ sashomasho/bulkey d6b22ecf9989320506985da7382dbb0c29c15404
+_AT_ senzhk/ADBKeyBoard 7bddbe5a32673c01c37bb9348f9c0851bee28e05
 _AT_ skwbr/kFix 7dd3e8e08ce3c05c01cdd90a9dd1973ab9e878f9
 _AT_ skyflyer/SoftKeyboard c7086053b72afa05c9d7155d54467ac90f8fd6cd
 _AT_ suhailsherif/HuffmanKeyboard 9d72b191d79b4a8975682c5ad434c0906175f58b
