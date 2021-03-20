@@ -1,7 +1,7 @@
 <link rel="prerender" href="https://buildapks.github.io/buildAPKs.keyboards/">
 
 # [buildAPKs.keyboards](https://github.com/BuildAPKs/buildAPKs.keyboards/)
-# [buildAPKs.keyboards](https://buildapks.github.io/buildAPKs.keyboards/)
+
 Android APK keyboard sources that build in [Termux](https://github.com/termux) in Amazon, Android, Chrome and Windows. 
 
 [![Screenshot_20210320-074801.png](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)
