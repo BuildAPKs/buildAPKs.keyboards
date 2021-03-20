@@ -15,5 +15,5 @@ Android APK keyboard sources that build in [Termux](https://github.com/termux) i
    ~/buildAPKs/build.keyboards.bash
 
 ```
-To see all the possible APK projects of this git repository run the command [`cat ma.bash`](https://raw.githubusercontent.com/BuildAPKs/buildAPKs.keyboards/main/ma.bash) in the root directory of this git repository after cloning; Enjoy!
+To see all the possible APK projects of this git repository run the command [`cat ma.bash`](https://raw.githubusercontent.com/BuildAPKs/buildAPKs.keyboards/main/ma.bash) in the root directory of this git repository after cloning and [`cat ~/buildAPKs/sources/keyboards/ma.bash](https://raw.githubusercontent.com/BuildAPKs/buildAPKs.keyboards/main/ma.bash) after attempting to build these Android keyboards in Android Termux app on handheld; Enjoy!
 <!--README.md EOF-->
