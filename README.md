@@ -25,4 +25,19 @@ Android APK keyboard sources that build in [Termux](https://github.com/termux) i
 Simply install the built APKi to use it on Android. If you are installing a keyboard, use Android > System > Languages and input > On-screen keyboard > Manage on-screen keyboards in Android Settings to complete the install.
 
 To see all the possible APK projects of this git repository run the command [`cat ma.bash`](https://raw.githubusercontent.com/BuildAPKs/buildAPKs.keyboards/main/ma.bash) in the root directory of this git repository after cloning this project.  In the home directory, you can use this command [`cat ~/buildAPKs/sources/keyboards/ma.bash`](https://raw.githubusercontent.com/BuildAPKs/buildAPKs.keyboards/main/ma.bash) after attempting to build these amazing Android keyboards in [Termux](https://github.com/termux) on handheld; Enjoy!
+
+Please see https://buildapks.github.io/buildAPKs for more information;
+
+FAQ:
+> How do I install? 
+
+Please see https://buildapks.github.io/buildAPKs;
+
+[`curl -O https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash`](https://buildapks.github.io/buildAPKs/setup.buildAPKs.bash)
+
+[`bash setup.buildAPKs.bash`](https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash)
+
+> What is the command to run wake lock?
+
+The `termux-wake-lock` and `termux-wake-unlock` commands are incorperated into the `build.*.bash` scripts.
 <!--buildAPKs.keyboards README.md EOF-->
