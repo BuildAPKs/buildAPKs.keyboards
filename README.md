@@ -6,7 +6,7 @@ Android APK keyboard sources that build in [Termux](https://github.com/termux) i
 
 [![Screenshot_20210320-074801.png](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)
 
-[This repository](https://github.com/BuildAPKs/buildAPKs.keyboards) is a submodule for [buildAPKs](https://buildapks.github.io/buildAPKs/).  In order to install it in its' proper place to attempt to make these applications on smartphone, smartTV, tablet and wearable, copy and paste the following into [Termux](https://github.com/termux):
+[This repository](https://github.com/BuildAPKs/buildAPKs.keyboards) is a [git](https://github.com/git) submodule for [buildAPKs](https://buildapks.github.io/buildAPKs/).  In order to install it in its' proper place to attempt to make these applications on smartphone, smartTV, tablet and wearable, copy and paste the following into [Termux](https://github.com/termux):
 
 ```
 
