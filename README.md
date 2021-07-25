@@ -2,7 +2,7 @@
 
 # [buildAPKs.keyboards](https://github.com/BuildAPKs/buildAPKs.keyboards/)
 
-Android APK keyboard sources that build in [Termux](https://github.com/termux) in Amazon, Android, Chrome, Linux and Windows: 
+Android APK keyboard sources that build in native [Termux](https://github.com/termux) in Amazon, Android, Chrome, Linux and Windows: 
 
 [![Screenshot_20210320-074801.png](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)](https://github.com/BuildAPKs/buildAPKs.keyboards/raw/main/Screenshot_20210320-074801.png)
 
