@@ -39,5 +39,5 @@ Please see https://buildapks.github.io/buildAPKs;
 
 > What is the command to run wake lock?
 
-The `termux-wake-lock` and `termux-wake-unlock` commands are incorperated into the `build.*.bash` scripts.
+The `termux-wake-lock` and `termux-wake-unlock` commands are incorperated into the `build.*.bash` scripts which will be avialable from the PATH upon successful installation.
 <!--buildAPKs.keyboards README.md EOF-->
